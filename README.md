@@ -2,4 +2,4 @@
 
 DEVICE_ubiquiti_edgerouterx
 
-mt7621
+ramips_mt7621
